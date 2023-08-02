@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# To delete a directory just type 
+
+rmdir
+
+# If your directory has contents in it simply type the below command to delete everything all at once
+
+rm -r
