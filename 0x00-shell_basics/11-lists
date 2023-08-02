@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# List all files in the current directory in long format
+ls -l
+
+cd ..
+ls -l
+
+cd /boot
+ls -l
+
