@@ -1,10 +1,2 @@
 #!/bin/bash
-
-# Save the current working directory in a variable
-current_dir=$(pwd)
-
-# Change to the previous working directory using the 'cd' command
-cd -
-
-# Change to previous working directory
-cd ..
+cd "$OLDPWD"

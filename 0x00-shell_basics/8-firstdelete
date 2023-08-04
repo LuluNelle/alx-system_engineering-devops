@@ -1,5 +1,2 @@
 #!/bin/bash
-
-#Deleting a file
-
-rm 
+rm /tmp/my_first_directory/betty 
